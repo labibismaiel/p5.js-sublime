@@ -12,6 +12,9 @@ If you are using [Sublime Package Control](http://wbond.net/sublime_packages/pac
 Alternatively you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
 
 Go to your Sublime Text `Packages` directory and clone the theme repository using the command below:
+
+`cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages`
+
 `git clone https://github.com/sergiomajluf/p5.js-sublime/ "P5"`
 
 ### Download Manually
@@ -20,7 +23,7 @@ Go to your Sublime Text `Packages` directory and clone the theme repository usin
 - Copy the folder to your Sublime Text `Packages` directory e.g. OS X: `~/Library/Application Support/Sublime Text 2/Packages/P5`
 
 ## Usage
-- Select P5 Syntax
+- Select Processing Syntax
 
 ## Acknowledgements
 - This bundle is very much based on [Processing TextMate Bundle by Leon Hong](http://www.onebitwonder.com/projects/processing/), thanks for all the good work!
