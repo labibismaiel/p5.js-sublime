@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[max(${1:array});]]></content>
+    <description>max array</description>
+    <scope>source.js</scope>
+    <tabTrigger>max</tabTrigger>
+</snippet>
