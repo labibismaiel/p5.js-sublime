@@ -3,10 +3,10 @@
 A [P5.js](http://p5js.org/) bundle for [Sublime Text](http://www.sublimetext.com/), based on the [Processing](https://github.com/b-g/processing-sublime)language syntax plugin.
 
 ## Installation
-There are 3 easy ways to install the Processing Bundle:
+There are ~~3~~ 2 easy ways to install the Processing Bundle:
 
-### Using Sublime Package Control
-If you are using [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install the Processing Bundle via the `Sublime Text -> Preferences -> Package Control: Install Package` menu item.
+~~### Using Sublime Package Control
+If you are using [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install the Processing Bundle via the `Sublime Text -> Preferences -> Package Control: Install Package` menu item.~~ Not yet.
 
 ### Using Git
 Alternatively you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
